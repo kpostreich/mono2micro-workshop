@@ -1,0 +1,6 @@
+site_name: Mono2Micro Workshop Material
+nav:
+  - Home: index.md
+  - Labs: Mono2MicroLabs.md
+theme: readthedocs
+extra_css: ["extra.css"]
